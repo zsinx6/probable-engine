@@ -1,3 +1,3 @@
-print("Oi")
-print("Tchau")
+print("Oi!")
+print("Tchau!")
 print("aaa")
